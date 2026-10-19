@@ -17,7 +17,7 @@
 
 ### What is FileConvy?
 
-[FileConvy](https://www.fileconvy.com) is a free website with 74 online file tools for PDFs, images, text, developers and everyday calculations. Most tools process files right in the browser, so nothing needs to be installed.
+[FileConvy](https://www.fileconvy.com) is a free website with 74 online file tools for PDFs, images, text, developers and everyday calculations. Everything works in a normal web browser, so nothing needs to be installed.
 
 ### Popular tools
 
